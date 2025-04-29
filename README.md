@@ -69,7 +69,6 @@ Location: India 🇮🇳
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma283&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaSharma283&theme=gruvbox&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma283&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
 </p>
 
