@@ -18,7 +18,6 @@
 Name: Aditya Sharma
 Role: Computer Science Engineer | Full Stack Developer | AI Enthusiast
 Education: B.Tech CSE @ KIIT University (2022–2026)
-CGPA: 7.2
 Email: adit.sharma283@gmail.com
 Location: India 🇮🇳
 ```
