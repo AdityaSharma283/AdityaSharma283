@@ -9,6 +9,9 @@
   <a href="https://github.com/AdityaSharma283"><img src="https://img.shields.io/github/followers/AdityaSharma283?label=Follow&style=for-the-badge"></a>
   <a href="https://github.com/AdityaSharma283"><img src="https://img.shields.io/github/stars/AdityaSharma283?label=GitHub%20Stars&style=for-the-badge"></a>
 </p>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AdityaSharma283&title=Profile%20Views&edge_flat=false&color=40fca9" alt="Profile Views" />
+</p>
 
 ---
 
