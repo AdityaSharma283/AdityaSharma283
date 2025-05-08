@@ -19,7 +19,7 @@ Name: Aditya Sharma
 Role: Computer Science Engineer | Full Stack Developer | AI Enthusiast
 Education: B.Tech CSE @ KIIT University (2022–2026)
 Email: adit.sharma283@gmail.com
-Location: India 🇮🇳
+Location: India
 ```
 
 💡 I’m a **full-stack developer** with a strong love for **AI/ML**, financial applications, and building tools that scale. I thrive in fast-paced environments and believe in combining creative frontends with robust backends.
@@ -58,7 +58,6 @@ Location: India 🇮🇳
 ## 🏆 Achievements
 
 - 🥇 **Winner** @ KANCHI Fashion Event — Team leadership & coordination  
-- 🥊 Represented University in **Inter-College Boxing Tournament**  
 - 🌱 Contributor to open source Python projects  
 - 📖 Self-learning advanced ML and GenAI deployment workflows
 
