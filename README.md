@@ -55,9 +55,7 @@ Location: India
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Winner** @ KANCHI Fashion Event — Team leadership & coordination  
+## 🏆 Achievements  
 - 🌱 Contributor to open source Python projects  
 - 📖 Self-learning advanced ML and GenAI deployment workflows
 
