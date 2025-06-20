@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Aditya Sharma! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=40FCA9&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=40FCA9&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;AI+%26+ML+Builder;Full-Stack+Developer;LLM+%26+NLP+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ```yaml
 Name: Aditya Sharma
-Role: Computer Science Engineer | Full Stack Developer | AI Enthusiast
+Role: Computer Science Engineer | AI/ML Builder | Full Stack Developer
 Education: B.Tech CSE @ KIIT University (2022–2026)
 Email: adit.sharma283@gmail.com
 Location: India
 ```
 
-💡 I’m a **full-stack developer** with a strong love for **AI/ML**, financial applications, and building tools that scale. I thrive in fast-paced environments and believe in combining creative frontends with robust backends.
+💡 I'm a passionate **AI/ML and full-stack developer**, focused on building scalable, intelligent systems. I enjoy creating tools that bridge data, design, and machine learning with real-world value.
 
 ---
 
@@ -36,11 +36,11 @@ Location: India
 
 ## 🧠 Domains & Concepts
 
-- 🔬 Machine Learning, Deep Learning (PyTorch, Scikit-Learn)
-- 💸 Fintech Apps, Dashboards, Investment Tools
-- 🧩 REST APIs, OOP, DSA, DBMS, OS
-- 🎯 CI/CD, Cloud Deployment (Vercel, Supabase)
-- 👨‍💻 Open Source Contributions
+- 🔬 NLP, Transformers, LLMs, GenAI, spaCy, Hugging Face
+- 📈 ML Workflows, Model Training, Custom Text Classification
+- 💼 Full Stack (Next.js, Supabase, CI/CD, Vercel)
+- 🛋þ REST APIs, DBMS, OS, OOP, DSA
+- 👩‍💻 Open Source Contributions
 
 ---
 
@@ -48,16 +48,18 @@ Location: India
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **[Finanlyze](https://github.com/AdityaSharma283/Finanlyze)** | Real-time finance dashboard with CI/CD deployment | `Next.js`, `Supabase`, `Arcjet`, `Inngest`, `Recharts` | 🔗 [Repo](https://github.com/AdityaSharma283/Finanlyze) |
-| **[Gold Price Predictor](https://github.com/AdityaSharma283/gold-price-predictor)** | Investment advice + price forecasting using ML and GenAI | `Streamlit`, `Yahoo Finance`, `Gradient Boosting`, `GenAI` | 🔗 [Repo](https://github.com/AdityaSharma283/gold-price-predictor) |
-| **[iPhone Website Clone](https://github.com/AdityaSharma283/IPHONE-SITE)** | Scroll animations + SSR clone of Apple’s iPhone page | `Next.js`, `Tailwind CSS`, `Three.js` | 🔗 [Repo](https://github.com/AdityaSharma283/IPHONE-SITE) |
-| **[Open Source – Bank App](https://github.com/geekcomputers/Python/blob/master/bank_managment_system/backend.py)** | Fixed backend logic & enhanced security in legacy code | `Python`, `SQL` | 🔗 [Contribution](https://github.com/geekcomputers/Python) |
+| **[TV Series Analyzer](https://github.com/your-username/tv-series-analyzer)** | AI-powered NLP tool to analyze themes, build character networks, and simulate conversations | `Python`, `spaCy`, `Transformers`, `NetworkX`, `Streamlit` | 🔗 [Repo](https://github.com/your-username/tv-series-analyzer) |
+| **[Stock Sentiment App](https://github.com/AdityaSharma283/stock-sentiment-app)** | Real-time stock sentiment analyzer with live data & Gemini AI | `Python`, `Streamlit`, `BeautifulSoup`, `Logistic Regression`, `yFinance` | 🔗 [Repo](https://github.com/AdityaSharma283/stock-sentiment-app) |
+| **[Gold Price Predictor](https://github.com/AdityaSharma283/gold-price-predictor)** | Forecasts gold trends + GenAI investment advice | `Streamlit`, `Yahoo Finance`, `ML`, `GenAI`, `Plotly` | 🔗 [Repo](https://github.com/AdityaSharma283/gold-price-predictor) |
+| **[Finanlyze](https://github.com/AdityaSharma283/Finanlyze)** | Finance dashboard with CI/CD + real-time analytics | `Next.js`, `Supabase`, `Arcjet`, `Inngest`, `Recharts` | 🔗 [Repo](https://github.com/AdityaSharma283/Finanlyze) |
+| **[Bank App (Open Source)](https://github.com/geekcomputers/Python/blob/master/bank_managment_system/backend.py)** | Legacy Python backend refactor for banking logic | `Python`, `SQL` | 🔗 [Contribution](https://github.com/geekcomputers/Python) |
 
 ---
 
 ## 🏆 Achievements  
-- 🌱 Contributor to open source Python projects  
-- 📖 Self-learning advanced ML and GenAI deployment workflows
+- 🌿 Built and deployed AI/ML web apps in real-time scenarios  
+- 🔧 Active open source contributor (Python, backend logic, app debugging)  
+- 📚 Self-learned LLM workflows, GenAI pipelines, NLP visualization techniques
 
 ---
 
@@ -83,5 +85,6 @@ Location: India
 </p>
 
 > ✨ _“Strive to build things that are useful, scalable, and elegant.”_
+
 
 
