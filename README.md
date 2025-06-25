@@ -48,7 +48,7 @@ Location: India
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **[TV Series Analyzer](https://github.com/your-username/tv-series-analyzer)** | AI-powered NLP tool to analyze themes, build character networks, and simulate conversations | `Python`, `spaCy`, `Transformers`, `NetworkX`, `Streamlit` | 🔗 [Repo](https://github.com/your-username/tv-series-analyzer) |
+| **[TV Series Analyzer](https://github.com/AdityaSharma283/series_analyze_NLPr)** | AI-powered NLP tool to analyze themes, build character networks, and simulate conversations | `Python`, `spaCy`, `Transformers`, `NetworkX`, `Streamlit` | 🔗 [Repo](https://github.com/AdityaSharma283/series_analyze_NLP) |
 | **[Stock Sentiment App](https://github.com/AdityaSharma283/stock-sentiment-app)** | Real-time stock sentiment analyzer with live data & Gemini AI | `Python`, `Streamlit`, `BeautifulSoup`, `Logistic Regression`, `yFinance` | 🔗 [Repo](https://github.com/AdityaSharma283/stock-sentiment-app) |
 | **[Gold Price Predictor](https://github.com/AdityaSharma283/gold-price-predictor)** | Forecasts gold trends + GenAI investment advice | `Streamlit`, `Yahoo Finance`, `ML`, `GenAI`, `Plotly` | 🔗 [Repo](https://github.com/AdityaSharma283/gold-price-predictor) |
 | **[Finanlyze](https://github.com/AdityaSharma283/Finanlyze)** | Finance dashboard with CI/CD + real-time analytics | `Next.js`, `Supabase`, `Arcjet`, `Inngest`, `Recharts` | 🔗 [Repo](https://github.com/AdityaSharma283/Finanlyze) |
