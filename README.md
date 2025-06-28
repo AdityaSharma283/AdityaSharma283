@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Aditya Sharma! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=40FCA9&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;AI+%26+ML+Builder;Full-Stack+Developer;LLM+%26+NLP+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=40FCA9&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;AI+%26+ML+Builder;Full-Stack+Developer;LLM+%26+NLP+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
